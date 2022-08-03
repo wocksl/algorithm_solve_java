@@ -21,4 +21,7 @@
 
 ***DO***
 1. 푼 문제들을 실행되게 만들긴 했으나 기존 파일들이 다 날라감(잔디실종)
+2. contributor 믄제 해결 
+   a. git config --global --list 통해 유저 확인
+   b. git config --global user.name, user.email 로 유저 변경
 
