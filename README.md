@@ -18,7 +18,7 @@
 **TODO**
 1. 폴더 분리
 2. .ignore 추가하기
-3. why commit youngmin?
+3. why commit youngmin??
 
 ***DO***
 1. 푼 문제들을 실행되게 만들긴 했으나 기존 파일들이 다 날라감(잔디실종)
