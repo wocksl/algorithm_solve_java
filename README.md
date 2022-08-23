@@ -7,7 +7,7 @@
 2. git pull
 
 인텔리제이에서 추가한 후 잔디를 올리고 싶은 경우
-1. git status
+1. git status (올릴 파일 확인)
 2. git add .
 3. git commit -m "~~~"
 4. git push
